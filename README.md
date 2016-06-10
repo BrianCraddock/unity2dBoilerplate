@@ -1,11 +1,15 @@
 # unity2dBoilerplate
-Boilerplate for common game functionality in unity2d
+Starter kit for common game functionality
 
 Includes:
-level select menu
-pause menu
-high score
-basic play
+* Main menu with level select
+* Pause menu
+* High score
+* Basic player functionality
+
+TODO:
+* Dynamic level select options (currently hardcoded)
+* Per level metadata (completed, level scoped high score)
 
 
 
